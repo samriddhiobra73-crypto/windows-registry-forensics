@@ -41,7 +41,7 @@ The Windows Registry contains valuable information about system activity, user b
 ### 👤 User Profiles & Activity
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList`  
   → User profiles on system  
-
+![USB Devices](images/Screenshot6.png)
 - `HKEY_USERS\<USER_SID>\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\RecentApps`  
   → Recently used apps  
 
