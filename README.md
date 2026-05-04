@@ -44,7 +44,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot6.png)
 - `HKEY_USERS\<USER_SID>\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\RecentApps`  
   → Recently used apps  
-
+![USB Devices](images/Screenshot7.png)
 - `HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders`  
   → Recently accessed document paths  
 
