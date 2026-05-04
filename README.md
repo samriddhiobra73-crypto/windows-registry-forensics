@@ -75,7 +75,7 @@ The Windows Registry contains valuable information about system activity, user b
 ### ⚠️ Malicious Activity Indicators
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor`  
   → AutoRun can execute malicious commands  
-
+![USB Devices](images/Screenshot15b.png)
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon`  
   → Shell modification = persistence  
 
