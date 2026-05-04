@@ -58,7 +58,7 @@ The Windows Registry contains valuable information about system activity, user b
 ### 🌐 Browsing & Execution History
 - `HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\TypedURLs`  
   → Websites visited  
-
+![USB Devices](images/Screenshot10.png)
 - `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedMRU`  
   → Recently opened files & programs  
 
