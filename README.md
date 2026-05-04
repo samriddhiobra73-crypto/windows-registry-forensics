@@ -61,7 +61,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot10.png)
 - `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedMRU`  
   → Recently opened files & programs  
-
+![USB Devices](images/Screenshot11.png)
 - `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU`  
   → Run command history  
 
