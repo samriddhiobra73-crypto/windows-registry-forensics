@@ -35,7 +35,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot4.png)
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall`  
   → Installed programs  
-![USB Devices](images/Screenshot5.png)
+![USB Devices](images/screenshot5.png)
 ---
 
 ### 👤 User Profiles & Activity
