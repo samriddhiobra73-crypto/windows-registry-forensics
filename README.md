@@ -32,7 +32,7 @@ The Windows Registry contains valuable information about system activity, user b
 ### 💻 Installed Applications
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Registered Applications`  
   → Registered applications list  
-
+![USB Devices](images/Screenshot4.png)
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall`  
   → Installed programs  
 
