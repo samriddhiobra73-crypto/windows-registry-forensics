@@ -47,7 +47,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot7.png)
 - `HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders`  
   → Recently accessed document paths  
-
+![USB Devices](images/Screenshot7.png)
 ---
 
 ### 🔐 Logon Information
