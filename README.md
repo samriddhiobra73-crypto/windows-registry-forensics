@@ -26,7 +26,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot2.png)
 - `HKEY_LOCAL_MACHINE\SYSTEM\MountedDevices`  
   → Provides mounted device details  
-
+![USB Devices](images/Screenshot_3.png)
 ---
 
 ### 💻 Installed Applications
