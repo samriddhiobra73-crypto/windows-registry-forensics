@@ -20,7 +20,7 @@ The Windows Registry contains valuable information about system activity, user b
 ### 🔌 USB & Device Analysis
 - `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USBSTOR`  
   → Shows USB storage devices connected  
-![USB Devices](images/Screenshot1.png)
+![USB Devices](images/Screenshot 1.png)
 - `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB`  
   → Lists all USB devices (keyboard, mouse, etc.)  
 
