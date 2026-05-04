@@ -52,9 +52,8 @@ The Windows Registry contains valuable information about system activity, user b
 
 ### 🔐 Logon Information
 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\LogonUI`  
-  → Last logged-in user  
-![USB Devices](images/Screenshot9.png)
----
+  → Last logged-in user
+---![USB Devices](images/Screenshot9.png)
 
 ### 🌐 Browsing & Execution History
 - `HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\TypedURLs`  
