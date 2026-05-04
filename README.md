@@ -64,7 +64,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot11.png)
 - `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU`  
   → Run command history  
-
+![USB Devices](images/Screenshot12.png)
 ---
 
 ### 🚀 Startup & Persistence
