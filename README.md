@@ -23,7 +23,7 @@ The Windows Registry contains valuable information about system activity, user b
 ![USB Devices](images/Screenshot1.png)
 - `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB`  
   → Lists all USB devices (keyboard, mouse, etc.)  
-
+![USB Devices](images/Screenshot2.png)
 - `HKEY_LOCAL_MACHINE\SYSTEM\MountedDevices`  
   → Provides mounted device details  
 
