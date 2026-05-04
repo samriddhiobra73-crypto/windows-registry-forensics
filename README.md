@@ -71,7 +71,7 @@ The Windows Registry contains valuable information about system activity, user b
 - `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run`  
 - `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`  
   → Startup programs  
-
+![USB Devices](images/Screenshot13.png)
 - `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce`  
   → One-time execution  
 
